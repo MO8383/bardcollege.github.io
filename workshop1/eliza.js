@@ -40,8 +40,8 @@ var rules = {
     "What do you think about computers?",
     "What do you think machines have to do with your problem?",
   ],
-  "~*x name ~*y": [
-    "I am not interested in names",
+  "~*x what's good Eliza ~*y": [
+    "AYYYY FAM WE LIT",
   ],
   "~*x sorry ~*y": [
     "Please don't apologize",

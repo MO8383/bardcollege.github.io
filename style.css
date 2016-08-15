@@ -36,13 +36,6 @@ a:visited {
 img{
     padding: 15px;
 }
-
-.headshot{
-    float:right;
-    height: 360px;
-    padding-top:0px;
-}
-
 .textbox {
     width:70%;
     color: none;

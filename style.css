@@ -1,6 +1,6 @@
 body {
     background-color: rgb(0,43,43);
-    color: linen;
+    color: grey;
     font-size: 150%;
     line-height: 1.4;
 }
@@ -70,14 +70,3 @@ img{
     float: left;
 }
 
-.box { 
-    width: 250px;
-    margin: 15px;
-    display: inline-block;
-    vertical-align: top;   
-}
-.box img{
-    margin: 0;
-    padding: 0;
-    width: 100%;
-}

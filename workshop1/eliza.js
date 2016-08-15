@@ -40,7 +40,7 @@ var rules = {
     "What do you think about computers?",
     "What do you think machines have to do with your problem?",
   ],
-  "~*x what's good Eliza ~*y": [
+  "~*x You turnt tonight bruh ~*y": [
     "AYYYY FAM WE LIT",
   ],
   "~*x sorry ~*y": [
@@ -165,7 +165,7 @@ var rules = {
     "Perhaps I am ~y in your fantasies.",
   ],
   "~*x you are ~*y": [
-    "What makes you think I am ~y?",
+    "nah fam, I ain't ~y?",
   ],
   "~*x because ~*y": [
     "Is that the real reason?",
